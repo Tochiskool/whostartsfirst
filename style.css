@@ -1,14 +1,16 @@
 #obj {
   display: flex;
   list-style: none;
+  justify-content: center;
 }
 #obj li {
   margin: 0 4%;
-  padding: 3%;
+  padding: 4%;
   background-color: blue;
 }
 
 header h1,
-header p {
+header p,
+p {
   text-align: center;
 }
