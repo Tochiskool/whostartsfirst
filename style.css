@@ -8,6 +8,7 @@
   background-color: blue;
 }
 
-header {
+header h1,
+header p {
   text-align: center;
 }
