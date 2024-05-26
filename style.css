@@ -1,0 +1,9 @@
+#obj {
+  display: flex;
+  list-style: none;
+}
+#obj li {
+  margin: 0 4%;
+  padding: 3%;
+  background-color: blue;
+}
